@@ -1,6 +1,7 @@
-Js Hello World Demo
-===================
+JavaScript Trigger DOMNodeInserted Manually Demo
+===============================================
 
-Open `index.html` in your browser.
-
-You will see "Hello, JS!" on the page.
+```
+npm install
+npm run demo
+```
